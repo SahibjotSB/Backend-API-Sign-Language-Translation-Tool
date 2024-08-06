@@ -1,5 +1,3 @@
-S
-
 ## Backend Api Sign Language Translator 
 
 **Description: Receives text input and returns a message confirming successful translation.**

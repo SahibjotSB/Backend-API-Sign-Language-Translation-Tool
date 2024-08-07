@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ## Backend Api Sign Language Translator
-=======
-## Backend Api Sign Language Translator 
->>>>>>> 87fbe1ace1bea1538f3edeb28953e59957bee42b
 
 **Description: Receives text input and returns a message confirming successful translation.**
 
@@ -32,4 +28,5 @@
 
 ## Request (URL)
 
-[http://127.0.0.1:5000/endpoint?text=Hello]()
+[http://127.0.0.1:5000/endpoint?text=Hello]() 										Local Link
+[https://murmuring-refuge-76686-324ef957f012.herokuapp.com/endpoint?text=Hello](https://murmuring-refuge-76686-324ef957f012.herokuapp.com/endpoint?text=Hello)  	Deployed Link

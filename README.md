@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## Backend Api Sign Language Translator
+=======
+## Backend Api Sign Language Translator 
+>>>>>>> 87fbe1ace1bea1538f3edeb28953e59957bee42b
 
 **Description: Receives text input and returns a message confirming successful translation.**
 
